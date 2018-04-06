@@ -1,4 +1,6 @@
-## Infinite Skills Git Training
+Cloned OPen Source projeect for Git Testing 
+
+## Git Training
 
 This is a project for the Infinite Skills Git Training video.
 
